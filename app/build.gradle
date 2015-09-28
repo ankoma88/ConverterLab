@@ -1,0 +1,45 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        config {
+            keyAlias 'clkey'
+            keyPassword 'ak221188'
+            storeFile file('/home/ankoma88/AndroidStudioProjects/keystores/clkey.jks')
+            storePassword 'ak221188'
+        }
+    }
+    compileSdkVersion 23
+    buildToolsVersion "22.0.1"
+    defaultConfig {
+        applicationId "com.ankoma88.converterlab"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.config
+        }
+        debug {
+            signingConfig signingConfigs.config
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:23.0.1'
+    compile 'com.android.support:design:23.0.1'
+    compile 'com.android.support:cardview-v7:23.0.1'
+    compile 'com.android.support:recyclerview-v7:23.0.1'
+    compile 'com.google.code.gson:gson:2.3'
+    compile 'com.squareup.retrofit:retrofit:1.6.1'
+    compile 'com.getbase:floatingactionbutton:1.10.0'
+    compile 'com.google.android.gms:play-services-maps:7.8.0'
+    compile 'com.google.android.gms:play-services-location:7.8.0'
+    compile 'com.google.android.gms:play-services:7.8.0'
+}

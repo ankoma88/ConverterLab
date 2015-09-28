@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/cardview_light_background">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_offer_FO"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="@dimen/button_base_margin">
+
+            <TextView
+                android:id="@+id/tvCurrencyName_FO"
+                android:text="@string/currency"
+                tools:ignore="RelativeOverlap" style="@style/currency_name_offer_card_style"/>
+
+            <LinearLayout
+                android:id="@+id/linlayoutAsk_FO"
+                tools:ignore="UseCompoundDrawables" style="@style/ask_linlayout_offer_card_style">
+                <ImageView
+                    android:id="@+id/ivAskChange_FO"
+                    android:src="@drawable/ic_green_arrow_up"
+                    tools:ignore="RtlSymmetry" style="@style/ask_change_offer_card_style"/>
+                <TextView
+                    android:id="@+id/tvAsk_FO"
+                    android:text="@string/quote_value"
+                    style="@style/ask_tv_offer_card_style"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linlayoutBid_FO"
+                tools:ignore="UseCompoundDrawables" style="@style/bid_linlayout_offer_card_style">
+                <ImageView
+                    android:id="@+id/ivBidChange_FO"
+                    android:src="@drawable/ic_red_arrow_down"
+                    tools:ignore="RtlSymmetry" style="@style/bid_iv_offer_card_style"/>
+                <TextView
+                    android:id="@+id/tvBid_FO"
+                    android:text="@string/quote_value"
+                    style="@style/bid_tv_offer_card_style"/>
+            </LinearLayout>
+
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

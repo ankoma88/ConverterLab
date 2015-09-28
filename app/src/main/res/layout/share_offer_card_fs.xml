@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/button_margin"
+    android:orientation="horizontal"
+    android:layout_centerVertical="true"
+    android:background="@color/primary_light">
+
+            <TextView
+                android:id="@+id/tvCurrencyName_FS"
+                android:text="@string/currency"
+                tools:ignore="RelativeOverlap,RtlSymmetry"
+                style="@style/currency_tv_share_offer_card_style"/>
+
+                <TextView
+                    android:id="@+id/tvAsk_FS"
+                    android:text="@string/quote_value"
+                    tools:ignore="RtlSymmetry" style="@style/ask_tv_share_offer_card_style"/>
+
+                <TextView
+                    android:layout_weight="0.1"
+                    android:text="@string/slash"
+                    android:textColor="@color/secondary_text"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:id="@+id/tvBid_FS"
+                    android:text="@string/quote_value"
+                    style="@style/bid_tv_share_offer_card_style"/>
+
+</LinearLayout>

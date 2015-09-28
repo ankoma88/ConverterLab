@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    app:titleTextAppearance="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+    app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+    android:title="@string/app_name"
+    android:titleTextColor="@color/primary_light"
+    style="@style/ToolBarStyle"/>

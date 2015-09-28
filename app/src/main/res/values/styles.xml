@@ -1,0 +1,271 @@
+<resources>
+
+    <!-- Base application theme -->
+    <style name="BaseTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="searchViewStyle">@style/SearchViewStyle</item>
+    </style>
+
+    <style name="AppTheme" parent="BaseTheme"/>
+
+    <!-- SearchView style -->
+    <style name="SearchViewStyle" parent="Widget.AppCompat.SearchView"/>
+
+    <!-- ToolBar style -->
+    <style name="ToolBarStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+        <item name="android:background">@color/primary_dark</item>
+    </style>
+
+    <!-- Fab Menu style -->
+    <style name="menu_labels_style">
+        <item name="android:background">@drawable/bg_fab_label</item>
+        <item name="android:textColor">@color/secondary_text</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+    </style>
+    <style name="transparency_framelayout_style">
+        <item name="android:background">@color/primary_light</item>
+        <item name="android:alpha">0.5</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="fab_menu_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/button_margin</item>
+        <item name="android:layout_gravity">bottom|end</item>
+    </style>
+    <style name="fab_btn_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <!-- Share buttonstyle -->
+    <style name="share_btn_style">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:contentDescription">@string/share</item>
+    </style>
+
+    <!-- Map marker style -->
+    <style name="map_marker_image_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/img_padding</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:contentDescription">@string/marker</item>
+    </style>
+    <style name="map_marker_title_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Large</item>
+        <item name="android:textColor">@color/primary_text</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="map_marker_snippet_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textColor">@color/primary_light</item>
+    </style>
+
+    <!-- Fragment elements styles -->
+    <style name="currency_name_offer_card_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_marginTop">@dimen/button_base_margin</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textColor">@color/secondary_text</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="ask_linlayout_offer_card_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+    <style name="ask_change_offer_card_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:contentDescription">@string/upside</item>
+        <item name="android:paddingRight">@dimen/button_base_margin</item>
+    </style>
+    <style name="ask_tv_offer_card_style">
+        <item name="android:layout_width">@dimen/number_width</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">end</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textColor">@color/green</item>
+    </style>
+    <style name="bid_linlayout_offer_card_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_below">@id/linlayoutAsk_FO</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+    <style name="bid_iv_offer_card_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:paddingRight">@dimen/button_base_margin</item>
+        <item name="android:contentDescription">@string/upside</item>
+    </style>
+    <style name="bid_tv_offer_card_style">
+        <item name="android:layout_width">@dimen/number_width</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">end</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textColor">@color/red</item>
+    </style>
+    <style name="currency_name_offer_title_card_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textColor">@color/secondary_text</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="ask_tv_offer_title_card_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+    <style name="bid_tv_offer_title_card_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_below">@+id/tvAskLabel_FO</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+    <style name="trader_name_share_info_card_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingBottom">@dimen/button_margin</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Title</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+    <style name="region_share_info_card_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+    <style name="city_share_info_card_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+    <style name="currency_tv_share_offer_card_style">
+        <item name="android:layout_weight">1.5</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">@dimen/activity_base_margin</item>
+        <item name="android:paddingRight">@dimen/activity_base_margin</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textColor">@color/red</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="ask_tv_share_offer_card_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">@dimen/activity_base_margin</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textColor">@color/secondary_text</item>
+        <item name="android:layout_weight">0.06</item>
+    </style>
+    <style name="bid_tv_share_offer_card_style">
+        <item name="android:layout_width">85dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+    <style name="trader_name_trader_card_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Title</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+    <style name="region_trader_card_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_below">@+id/tvTraderName_AT</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+    <style name="city_trader_card_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_below">@+id/tvRegion_AT</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+    <style name="phone_trader_card_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_below">@+id/tvCity_AT</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Small</item>
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+    <style name="address_trader_card_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_below">@+id/tvPhoneNumber_AT</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Small</item>
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+    <style name="trader_name_info_card_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingBottom">@dimen/button_base_margin</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Large</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/accent</item>
+    </style>
+    <style name="website_info_card_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+    <style name="link_info_card_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textColor">@color/secondary_text</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+    <style name="table_row_label_info_card_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+    <style name="table_row_value_trader_info_card_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textColor">@color/secondary_text</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>
