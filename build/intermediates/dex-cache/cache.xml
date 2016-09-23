@@ -2,445 +2,301 @@
 <items version="2" >
 
     <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-6a61c4ac47d693017108d3b414a5204b1fa3426f.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-e29a3ddb5384853f829833c2aabe063c3533fd41.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-fabdf88c089312ac3fb120ae522d2f718ff9c344.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-d4d3a418683fc4a7fcc1585db5c7bbd28d4a5727.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.10.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="078cad8ebaa25b1eb1790bd622b3a8ae27c9cc7a">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-39bda161b02eedfb1395d261a56016d341154102.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-50771a59116be743c56172476bc94ab088c3a53c.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-cb20d2237ff6ed15c58bebc2679fb206455ed915.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-07824169545ab4c30d80c368ffebdd0ed4146f97.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-3afc1cd65da798e82392fea2e443d6dffc8d6810.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-be1cbff0d281b1d3ccf527f3567d6684156c74ef.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-6eb0f16e2ea16238ad350df8179a2d2d20578792.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-f9e74dd071d9cfd49c7cf0a63370bb0003e179ae.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-8830d6fccec32d6f4db163227621e6048de7c7db.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-00d07f6939af274b5abf36e13329239292ae53e6.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-72cb91372ae846e322fab9fbfacc0795d0e12993.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-97f1247dec070a04242a68459ca84eceb7ca34cd.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="2e24e5f1b11170163028277de63f709e42525db4">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-c45ab77080356ac78e9d39bd03c8eeb80c232cb3.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-f410537596e8da084b97546404273b7f71d4bc45.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="2e24e5f1b11170163028277de63f709e42525db4">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-fcd0799e3adc6203fc0299c9aca888b7fffdac70.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/gson-2.3-2d82d4ac455701ffef11da0d6fc4969750907230.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
-        jumboMode="false"
+        optimize="true"
         revision="22.0.1"
         sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-d2e3bcdca27eb43aa4c42c47ddb4bd4219e51cef.jar" />
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-7.8.0_b358fc600b31e1ffaf7f830a5faefacc6d921b6f.jar" />
     </item>
     <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-2497e5d0e83fe026caa8b1096da249a082426ce6.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-f67d357b512278df34aca9f9f5d19c3d7333271c.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-3712ae29a52cc080e0d924535ce00434e2c141b3.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
-        jumboMode="false"
+        optimize="true"
         revision="22.0.1"
         sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-448454eebb4d4bf2ce16ffa8908045a2a9cb7690.jar" />
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-7.8.0_829d361f01af48cc9c38cd99aaa3eb9c8478f879.jar" />
     </item>
     <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-f9d26dd434f66b7720832d401348e53511b5dcbb.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.10.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="078cad8ebaa25b1eb1790bd622b3a8ae27c9cc7a">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-64b2b2c165d61276bc0599e272e246bca6814c75.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-69ef3d0bae51f40104f749b74403a18f7353f51f.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-4b48286a107dc1d63ce2cfb42acfc51708305d48.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-704773081f39388221ba803035e40afd315d9851.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.6.1/efb0a36546aa8857ab8df358b106c1817e03cbee/retrofit-1.6.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="efb0a36546aa8857ab8df358b106c1817e03cbee">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/retrofit-1.6.1-3115403eca958532110c0fa5bceacec3ed9f9bef.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-5076eecbb39954c0f03bc1ef5921238891c36570.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
+        optimize="true"
         revision="22.0.1"
         sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-955e57439f0dfb3e2872cf2cf2eb5bab5dcf2499.jar" />
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_de9060375471dfcdc4a3981aac8550d1a5d71898.jar" />
     </item>
     <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-4c4a23e3c9f9f2a7cb2ccdba26d30509ab964622.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-4e12152eb2b5a0c344aa057ed7413f6ae5216ddc.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-33cfd522af867eb9b6fb70eac9bca8c010ad72c6.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-e35806072072b86e5c0ef12c8cb3878aa91dabdd.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-c7abbabd34f7ef5bfb3b65da32595dc159c76aa5.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-f2fb1024b64bba273c11c9602e0ab6bb20fc635d.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-ec992c808df79c527d564058f02753f43b36a474.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-aa2574671b733da3fb253035a2fb906093417683.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-d0d1354caeb49730b0361c86e3b2a608a45ce7a8.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-f5461fe28f3ce70c3542a92218d0b7a5b9c3a268.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-7587e7dea8f13741523da4f72808a25249992286.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-25ae6c5f1a863fdeb87d3f6c13fd671e5017cc2e.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-d53ee1359d7bcd759727437b84b3af2effc77847.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-6ac87c0c2354e324208d1c2a051d00ae3205b3c4.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-9875c73f36a1986839389050fed60d72c64c2d2d.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-69db7b03b057f606830c6ad0751a725e599d81a4.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-da9e8352f48a90231a69d180767205958bd0ff22.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-97b4f27ebfdc3b1659b1f5d07f639288cdecc7b7.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-e33e1f29d6024a7eab2d67c2184299708f1ad19d.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-144995f78db0bb0686c1f4bee6862ed723ce1405.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
-        jumboMode="false"
+        optimize="true"
         revision="22.0.1"
         sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-9114363ab2ec2bdd9a7ec7c06e709373e7a30659.jar" />
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-7.8.0_a88d85f6a633b84e5b07addac0eafeaa6b1225c6.jar" />
     </item>
     <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
         jumboMode="false"
+        optimize="true"
         revision="22.0.1"
-        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-6dd55e97bd131c065e122c61175b49336ee7c161.jar" />
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_91f8f66c549a1522ff11b9173df110fbaf140805.jar" />
     </item>
     <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-edfbe9d1d51acbb5de0aae63a9eda8148e711101.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-4b81aedb05d488737da2d20ec6716322447f5401.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-675a1e91f873e6ca1770a2ffc7668755480c2679.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-2098f2c846e74ffa48635cbd5cf4149cb8ea7c1d.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-c7a525c0b7b5e8322219ef6b44673fcb94142c43.jar" />
-    </item>
-    <item
-        jar="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-413a76ee1cb5e75020e9fabf16bdce32202ae56c.jar" />
-    </item>
-    <item
+        is-multidex="false"
         jar="/home/ankoma88/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
         jumboMode="false"
+        optimize="true"
         revision="22.0.1"
         sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/home/ankoma88/AndroidStudioProjects/l19/ConverterLab/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-215faa65e37138602da1a702bc8b62d9a88d2d0b.jar" />
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_215faa65e37138602da1a702bc8b62d9a88d2d0b.jar" />
     </item>
     <item
-        jar="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
         jumboMode="false"
+        optimize="true"
         revision="22.0.1"
-        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
-        <dex dex="/home/ankoma88/Desktop/ConverterLab/app/build/intermediates/pre-dexed/debug/classes-75361db890345697d60406985499025623455dae.jar" />
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_9fb3065bca9ca52c9035a86a5b5017e79411ba64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/gson-2.3.1_41c6063debeb60d1508639153ed334901f70062b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-7.8.0_0a6f4728613ed0eb9cd7b1f9905f36f64998431c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-7.8.0_6618c36930ee4d0f1ed80a83c810929886be2316.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-7.8.0_83175f7aaaff0bfab303e2536bab46d68b8bb560.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0_a99c6157aa722c639866fbfff8f13a4f93a56f57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appstate-7.8.0_277ee167704a32ca42cb8c7b791409b7819bc2db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-7.8.0_8e9fef4b20b0685ead20d0f6578c7d0e572e6de2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-7.8.0_1a99b911edf49181f70f59cd82bcae027e9c125d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-7.8.0_a52d0f9dd78f6ffbc7d76b0043082986e1377cf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-7.8.0_4b4f40706386366a7ec2f7aa8a59c789836f7a55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_567ca89d40f9ebb0ece79ebbce5539db09d97fa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-7.8.0_373310569a7c88698b4a4dfc237eadb58c1e5ed6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.0.1_5819e7bd7bced1f996991dfa694e5b0fe0b07595.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-7.8.0_44975b1e298969984e504e9dfa775a736852ff12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="078cad8ebaa25b1eb1790bd622b3a8ae27c9cc7a">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.getbase-floatingactionbutton-1.10.0_601c26f5b8b4bfead36a55661ba09989bd242703.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-7.8.0_5300303516d1e417abc6d6234a8a9054288256bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-7.8.0_70f5bce68e48af6d61408498fafb75d3b92f1766.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-7.8.0_351972170aaf3748520177a3923f9ead06727776.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-7.8.0_27f5661ae2b33fa01265a8ca0241c1fc1a1ecfe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-7.8.0_afe5f07a7176c831f7e2b99020080b2802c6f2cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.0.1_753fe8b473530cb5d44d07d79da0dd0e071d6576.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_38741b99bcca9bf839f351f92917e54ced8e5290.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-7.8.0_5548c131794def85695be597fd2f1364af82fa18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-7.8.0_9855dc746b1be73cd1dbd484baabe7e8e52a9b5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-7.8.0_515b73c5b43d9ea72c927da17981f5bd56c1110c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/home/ankoma88/AndroidStudioProjects/clab/ConverterLab/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-22.2.0_9611c13dd28ed3337db01eba6258855eeed3e992.jar" />
     </item>
 
 </items>
